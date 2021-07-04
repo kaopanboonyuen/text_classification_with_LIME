@@ -1,6 +1,6 @@
-# Text Classification using Local Interpretable Model-Agnostic Explanations
+# Thai Text Classification using Local Interpretable Model-Agnostic Explanations
 
-Text Classification using Local Interpretable Model-Agnostic Explanations
+Thai Text Classification using Local Interpretable Model-Agnostic Explanations on Thailand Stock Market (SET50) Corpus
 
 Author:
 - Teerapong Panboonyuen
